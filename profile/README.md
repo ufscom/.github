@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bart435&show_icons=true&theme=radical)
+
 <!--
 
 **Here are some ideas to get you started:**
